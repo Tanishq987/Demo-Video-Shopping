@@ -59,7 +59,7 @@ class _ViewState extends State<View> {
                       ),
                     ),
                   ),
-                  alignment: Alignment.topLeft,
+                  alignment: Alignment.topLeft
                 );
               },
               itemCount: 3,
